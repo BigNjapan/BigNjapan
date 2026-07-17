@@ -7,11 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bignjapan" alt="bignjapan" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **kadircandevrim@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
